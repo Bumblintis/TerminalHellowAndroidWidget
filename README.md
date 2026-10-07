@@ -59,8 +59,8 @@ If KWGT does not automatically detect the downloaded file:
 
 <img width="1080" height="911" alt="terminalhello" src="https://github.com/user-attachments/assets/a9b5cb21-c466-45cf-906c-4e486c0aadff" />
 
+<img width="1440" height="2995" alt="Screenshot_20261007_155924_Kustom Widget" src="https://github.com/user-attachments/assets/cad8d97c-f07a-4f99-9368-0049f518fe58" />
 
-<img width="1440" height="3120" alt="Screenshot_20261007_155851_One UI Home" src="https://github.com/user-attachments/assets/2e5812c3-04dd-4140-a109-ba763ffe5e6c" />
 
 
 ## Notes
