@@ -23,9 +23,15 @@ TerminalHello displays:
 - **Screen resolution**
 - **Screen brightness**
 - **Battery level**
-- **CPU information**
+- **CPU usage**
 - **Current time**
 - **Current date**
+
+## Screenshots
+
+![TerminalHello Portrait](./Screenshots/terminalhello.jpg)
+
+![TerminalHello Landscape](./Screenshots/KWGT_editor.jpg)
 
 ## Requirements
 
@@ -35,39 +41,20 @@ TerminalHello displays:
 
 ## Installation
 
-1. Download the latest `.kwgt` file from the **Releases** section or from this repository.
-2. Install **KWGT** from the Google Play Store if you don't already have it.
+1. Download the `TerminalHello.kwgt` file from this repository.
+2. Install **KWGT** if you don't already have it.
 3. Add a **KWGT widget** to your Android home screen.
 4. Resize the widget to your preferred size.
 5. Tap the widget to open KWGT.
-6. Open the **Import** option and select the downloaded `.kwgt` file.
+6. Use the **Import** option and select `TerminalHello.kwgt`.
 7. Select **TerminalHello** from your imported presets.
-8. Save the widget and place it wherever you want on your home screen.
-
-### Manual Import
-
-If KWGT does not automatically detect the downloaded file:
-
-1. Open KWGT.
-2. Create or select a widget.
-3. Open the preset browser.
-4. Use the **Import** option.
-5. Select the `TerminalHello.kwgt` file from your Downloads folder.
-6. Load the preset and save it.
-
-## Screenshots
-
-<img width="1080" height="911" alt="terminalhello" src="https://github.com/user-attachments/assets/a9b5cb21-c466-45cf-906c-4e486c0aadff" />
-
-<img width="1440" height="2995" alt="Screenshot_20261007_155924_Kustom Widget" src="https://github.com/user-attachments/assets/cad8d97c-f07a-4f99-9368-0049f518fe58" />
-
-
+8. Save the widget.
 
 ## Notes
 
-TerminalHello is designed around the information and variables available through KWGT. Some values may vary depending on your Android version, device manufacturer, launcher, or the permissions available to KWGT.
+TerminalHello is designed around the information and variables available through KWGT. Some values may vary depending on your Android version, device manufacturer, launcher, or the permissions available to KWGT (This widget does NOT need location permissions).
 
-The widget is intended to be lightweight and primarily informational, with a terminal-inspired aesthetic that doesn't require location permissions.
+The widget is intended to be lightweight and primarily informational, with a terminal-inspired aesthetic.
 
 ## About
 
